@@ -69,7 +69,7 @@ Once the setup is complete, you can run the application with the following comma
 python main.py
 ```
 
-## How to Build a Standalone Executable
+<!-- ## How to Build a Standalone Executable
 
 You can bundle the application into a single standalone executable using `PyInstaller`.
 
@@ -84,4 +84,5 @@ Then, run the following command from within the `pic_matcher_app` directory:
 pyinstaller --name PicMatcher --onefile --windowed main.py
 ```
 
-This will create a `dist` folder containing the `PicMatcher` executable. You can distribute and run this file on other systems without needing to install Python or any dependencies.
+This will create a `dist` folder containing the `PicMatcher` executable. You can distribute and run this file on other systems without needing to install Python or any dependencies. -->
+
