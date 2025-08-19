@@ -1,6 +1,6 @@
 # Pic Matcher 
 
-Pic Matcher is a desktop application which I built to organize and clean up your my photo library from duplicates and screenshots.
+Pic Matcher is a desktop application which helps to organize and clean up your photo library from duplicates and screenshots.
 <div align="center">
     <img src="data/base_ui.png" width="60%"/>
 </div>
