@@ -1,9 +1,10 @@
-# Pic Matcher - Advanced Photo Tools
+# Pic Matcher 
 
-Pic Matcher is a desktop application built with Python and PyQt6 that provides a suite of tools to help you organize and clean up your photo library.
+Pic Matcher is a desktop application which I built to organize and clean up your my photo library from duplicates and screenshots.
 <div align="center">
-    <img src="data/base_ui.png" width="40%"/>
+    <img src="data/base_ui.png" width="60%"/>
 </div>
+
 ## Features
 
 This application is divided into two main tools:
@@ -19,7 +20,7 @@ This tool scans your photo library to find visually similar images and potential
 
 ### 2. Screenshot Finder
 
-This tool is designed to specifically find and remove screenshots from your photo library. It uses a sophisticated heuristic engine to identify screenshots based on their content:
+This tool is designed to specifically find and remove screenshots from your photo library. It uses an heuristic approach to identify screenshots based on their content:
 
 - **Filename Analysis:** Instantly identifies files containing keywords like "screenshot".
 - **Content-Based Detection:** For other files, it analyzes a combination of:
