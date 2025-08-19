@@ -1,0 +1,8 @@
+Pillow
+imagehash
+numpy
+PyQt6
+torch
+torchvision
+scipy
+faiss-cpu
