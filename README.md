@@ -1,6 +1,6 @@
 # Pic Matcher 
 
-Pic Matcher is a desktop application which helps to organize and clean up your photo library from duplicates and screenshots.
+Pic Matcher is a minial and basic desktop application which helps to organize and clean up your photo library from duplicates and screenshots.
 <div align="center">
     <img src="data/base_ui.png" width="60%"/>
 </div>
@@ -85,4 +85,10 @@ pyinstaller --name PicMatcher --onefile --windowed main.py
 ```
 
 This will create a `dist` folder containing the `PicMatcher` executable. You can distribute and run this file on other systems without needing to install Python or any dependencies. -->
+
+## Disclaimer
+
+I built this app mainly for myself to quickly manage duplicate pictures. I don’t plan to maintain it regularly, but you might see occasional updates.
+
+If you find it useful, feel free to contribute, ⭐ the project, and share it around!
 
